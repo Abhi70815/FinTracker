@@ -27,9 +27,9 @@
     box-shadow: var(--shadow);
     padding: 14px;
   }
-  .chart1> canvas{
-    height: 340px;
-    width: 700px;
+  .chart1 canvas{
+    height: 340px !important;
+    width: 700px !important;
   }
   .chart2 {
     width: 30%;

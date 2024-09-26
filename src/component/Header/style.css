@@ -4,10 +4,11 @@
     position: sticky;
     top: 0;
     left: 0;
-    width: 100vw;
+    /* width: 100vw; */
     display:flex ;
     justify-content: space-between;
     align-items:center;
+    z-index: 1000;
     
 }
 .link{
